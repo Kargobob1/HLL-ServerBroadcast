@@ -20,7 +20,7 @@ Automatischer Stats-Bot für Hell Let Loose CRCON Server. Zeigt die Top 3 Spiele
 
 1. **Repository klonen**
 ```bash
-git clone https://github.com/deinusername/hll-stats-bot.git
+git clone https://github.com/Kargobob1/HLL-ServerBroadcast.git
 cd hll-stats-bot
 ```
 
